@@ -1,2 +1,2 @@
 # socmed-faris
-simple project of socmed-faris
+Simple project of socmed-faris 
