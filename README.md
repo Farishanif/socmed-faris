@@ -1,2 +1,6 @@
 # socmed-faris
-Simple project of socmed-faris 
+
+<p>Freelance project of socmed-faris. This is the incomplete prototype version of the real website to avoid unnecessary problems that may arise if I show the real one to the public.</p>
+
+<This Website created in JavaScript, with Express.js Backend Framework and Vite Frontend Framework. 
+The Frontend created by utilizing TailwindCSS and AOS to make website look more interactive and dynamic, While the Backend utilizing Mongoose library to use MongoDB as the database.</p>
