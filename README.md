@@ -6,4 +6,4 @@
 
 <p>This Website created in JavaScript, with Express.js Backend Framework and Vite Frontend Framework. 
 The Frontend created by utilizing TailwindCSS and AOS to make website look more interactive and dynamic, While the Backend utilizing Mongoose library to use MongoDB as the database.
-This Website also utilizing third party such as Clerk for automation user account management, Tripay and Digiflazz for third party payment, and third party dan give top up broker</p>
+This Website also utilizing third party such as Clerk for automation user account management, Tripay and Digiflazz for third party payment, and third party for top up data broker</p>
