@@ -1,6 +1,6 @@
 # socmed-faris
 
-<p>Freelance project of socmed-faris. This is the main page or landing page of social media which already connected to the mySQL database via PrsimaORM scheme.</p>
+<p>Freelance project of socmed-faris. This is the base main page or landing page of social media which already connected to the mySQL database via PrsimaORM scheme.</p>
 
 <h2>Details</h2>
 
