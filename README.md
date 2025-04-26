@@ -1,9 +1,9 @@
 # socmed-faris
 
-<p>Freelance project of socmed-faris. This is the incomplete prototype version of the real website to avoid unnecessary problems that may arise if I show the real one to the public.</p>
+<p>Freelance project of socmed-faris. This is the main page or landing page of social media which already connected to the mySQL database via PrsimaORM scheme.</p>
 
 <h2>Details</h2>
 
-<p>This Website created in JavaScript, with Express.js Backend Framework and Vite Frontend Framework. 
-The Frontend created by utilizing TailwindCSS and AOS to make website look more interactive and dynamic, While the Backend utilizing Mongoose library to use MongoDB as the database.
-This Website also utilizing third party such as Clerk for automation user account management, Tripay and Digiflazz for third party payment, and third party for top up data broker</p>
+<p>This Website created in TypeScript, with the newest React.js v19 Backend Framework and Next.js v15 Frontend Framework. 
+The Frontend created by utilizing TailwindCSS for its appeareance, the Backend utilizing PrismaORM for its simplified Database interacting and made it more user friendly, and utilise its model base for easier management and migration, while also using Webhook for supporting its real-time ability with event-driven communication that automatically sends data between applications via HTTP.
+</p>
